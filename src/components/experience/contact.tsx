@@ -99,7 +99,7 @@ export function Contact() {
           ))}
         </div>
       </div>
-      <footer>© {new Date().getFullYear()} Rashida Umrali. Data · Design · Storytelling</footer>
+      <footer>© {new Date().getFullYear()} Rashida Umrali. AI &amp; ML · Code · Craft</footer>
     </section>
   );
 }

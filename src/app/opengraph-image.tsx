@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const alt = "Rashida Umrali — Data Science & Media Design";
+export const alt = "Rashida Umrali — B.Tech CSE (AI & ML) student";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -47,7 +47,7 @@ export default function OpengraphImage() {
             color: "#c5c5c5",
           }}
         >
-          DATA SCIENCE · MEDIA DESIGN · VISUAL ARTS
+          AI &amp; ML · C · C++
         </div>
         <div
           style={{
@@ -58,7 +58,7 @@ export default function OpengraphImage() {
             color: "#8a8a8a",
           }}
         >
-          B.Sc. Data Science · Media Design &amp; Visual Communication
+          B.Tech CSE (AI &amp; ML) Hons. · UIT, Karnavati University · SIH 2026
         </div>
       </div>
     ),

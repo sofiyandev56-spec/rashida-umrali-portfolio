@@ -32,7 +32,7 @@ export default function Home() {
       <CosmosClient />
       <Grain />
       <Chart />
-      <HeroLayer name="Rashida Umrali" sub={["Data Science", "Media Design", "Visual Arts"]} tag="Follow the star." />
+      <HeroLayer name="Rashida Umrali" sub={["B.Tech CSE", "AI & ML", "SIH 2026"]} tag="Follow the star." />
       <Constellation />
       <ProjectStage />
       <ScrollScript />
@@ -40,7 +40,7 @@ export default function Home() {
       <main>
         <section id="hero" data-phase="hero" className="phase-h-100">
           <h1 className="sr-only">
-            Rashida Umrali — Data Science Student &amp; Media Designer
+            Rashida Umrali — B.Tech CSE (AI &amp; ML) Hons. student at UIT, Karnavati University
           </h1>
         </section>
         <div data-phase="traverse" className="phase-h-200" aria-hidden="true" />

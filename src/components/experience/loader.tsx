@@ -5,7 +5,7 @@ import { gsap } from "@/lib/gsap";
 import { getLenis } from "@/lib/lenis";
 import { scrollState } from "@/lib/scroll-state";
 
-const WORDS = ["Creative", "Curious", "Analytical", "Creating"];
+const WORDS = ["Curious", "Determined", "Persistent", "Learning"];
 
 /** Seconds the counter takes on a first visit: ~1.1s per word, long enough to read. */
 const FULL = 4.4;

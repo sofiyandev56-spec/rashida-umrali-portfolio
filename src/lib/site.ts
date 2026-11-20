@@ -20,26 +20,16 @@ export const PERSON_SCHEMA = {
   "@type": "Person",
   name: "Rashida Umrali",
   url: siteUrl,
-  jobTitle: "Data Science Student & Media Designer",
+  jobTitle: "B.Tech CSE (AI & ML) student",
   description:
-    "Rashida Umrali is a Data Science student and media designer passionate about visual communication, branding, and merging analytical thinking with creative storytelling.",
-  alumniOf: [
-    {
-      "@type": "EducationalOrganization",
-      name: "Don Bosco Academy",
-    },
-  ],
+    "Rashida Umrali is a first-year B.Tech CSE (AI & ML) Hons. student at UIT, Karnavati University, building strong foundations in C and C++, and a Smart India Hackathon 2026 participant.",
+  alumniOf: {
+    "@type": "CollegeOrUniversity",
+    name: "Unitedworld Institute of Technology, Karnavati University",
+  },
   email: "mailto:rashida.umrali@gmail.com",
   nationality: "Indian",
-  knowsAbout: [
-    "Data Science",
-    "Media Design",
-    "Visual Communication",
-    "Branding",
-    "Digital Design",
-    "Python",
-    "Creative Direction",
-  ],
+  knowsAbout: ["C", "C++", "Problem solving"],
   sameAs: [
     "https://www.linkedin.com/in/rashida-umrali-380442433/",
     "https://www.instagram.com/rashida_umrali/",

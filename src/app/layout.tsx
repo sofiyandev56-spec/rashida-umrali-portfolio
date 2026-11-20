@@ -32,9 +32,9 @@ export const viewport: Viewport = {
   viewportFit: "cover",
 };
 
-const TITLE = "Rashida Umrali — Data Science & Media Design";
+const TITLE = "Rashida Umrali — B.Tech CSE (AI & ML) student";
 const DESCRIPTION =
-  "Rashida Umrali is a Data Science student and media designer passionate about visual communication, digital design, and bringing logic and creativity together.";
+  "Rashida Umrali is a first-year B.Tech CSE (AI & ML) Hons. student at UIT, Karnavati University, building strong foundations in C and C++, and a Smart India Hackathon 2026 participant.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -42,12 +42,12 @@ export const metadata: Metadata = {
   description: DESCRIPTION,
   keywords: [
     "Rashida Umrali",
-    "Data Science",
-    "Media Design",
-    "Visual Communication",
-    "Branding",
-    "Creative Storytelling",
+    "B.Tech CSE AI ML",
+    "Smart India Hackathon 2026",
+    "C",
+    "C++",
     "Student Portfolio",
+    "UIT Karnavati University",
     "Portfolio",
   ],
   authors: [{ name: "Rashida Umrali", url: "https://www.linkedin.com/in/rashida-umrali-380442433/" }],

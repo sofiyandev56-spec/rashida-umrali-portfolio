@@ -1,7 +1,8 @@
 # Rashida Umrali — Portfolio
 
-Portfolio of Rashida Umrali, a Data Science student and media designer passionate
-about visual communication, branding, and bringing logic and creativity together.
+Portfolio of Rashida Umrali, a first-year B.Tech Computer Science (AI & ML) Hons.
+student at UIT, Karnavati University, and a Smart India Hackathon 2026
+participant.
 
 Design based on the [Star Portfolio](https://starportfolio-nu.vercel.app/).
 
@@ -9,9 +10,9 @@ Design based on the [Star Portfolio](https://starportfolio-nu.vercel.app/).
 
 One long scroll. A WebGL "cosmos" of particles sits behind the page: you start
 in front of a dust portal with a mint star at its centre, fly through it, watch
-the words that describe how Rashida creates drift past, meet the cards (Media
-Design certification, B.Sc. in Data Science, and creative philosophy) and end
-in a starfield with her contact links.
+the words that describe how Rashida works drift past, meet the cards (Smart India
+Hackathon 2026, education, and what she is learning now) and end in a starfield
+with her email and links.
 
 ## Built with
 
@@ -45,6 +46,6 @@ set `NEXT_PUBLIC_SITE_URL` (see `.env.example`).
 
 ## Contact
 
+- Email: rashida.umrali@gmail.com
 - LinkedIn: <https://www.linkedin.com/in/rashida-umrali-380442433/>
 - Instagram: <https://www.instagram.com/rashida_umrali/>
-- Email: rashida.umrali@gmail.com
